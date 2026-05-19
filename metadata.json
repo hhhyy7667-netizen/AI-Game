@@ -1,0 +1,6 @@
+{
+  "name": "Brawl Bros: Food & Bombs",
+  "description": "A 2-player multiplayer competitive platformer where players compete to collect food and avoid bombs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
